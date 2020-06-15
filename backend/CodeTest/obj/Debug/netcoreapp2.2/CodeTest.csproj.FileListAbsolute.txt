@@ -1,0 +1,12 @@
+C:\Development\CodeTest\CodeTest\bin\Debug\netcoreapp2.2\CodeTest.deps.json
+C:\Development\CodeTest\CodeTest\bin\Debug\netcoreapp2.2\CodeTest.dll
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.csprojAssemblyReference.cache
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.csproj.CoreCompileInputs.cache
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.AssemblyInfoInputs.cache
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.AssemblyInfo.cs
+C:\Development\CodeTest\CodeTest\bin\Debug\netcoreapp2.2\CodeTest.pdb
+C:\Development\CodeTest\CodeTest\bin\Debug\netcoreapp2.2\CsvHelper.dll
+C:\Development\CodeTest\CodeTest\bin\Debug\netcoreapp2.2\CsvHelper.xml
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.csproj.CopyComplete
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.dll
+C:\Development\CodeTest\CodeTest\obj\Debug\netcoreapp2.2\CodeTest.pdb
