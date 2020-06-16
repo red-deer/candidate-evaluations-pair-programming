@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="15.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="CsvHelper">
       <HintPath>Lib\CsvHelper.dll</HintPath>
     </Reference>
