@@ -4,6 +4,8 @@ Using the provided project as a starting point, please complete the tasks below.
 
 You can structure your code however you like and you should spend no longer than an hour on your work.
 
+Use any tools at your disposal, including nuget packages and online documentation.
+
 ### Tasks
 
 Read Sales CSV file and map to a collection of objects
