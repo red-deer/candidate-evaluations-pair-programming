@@ -1,10 +1,12 @@
 ﻿## Code test
 
-Using the provided project as a starting point, please complete the tasks below. Each task should have a unit test showing correct functionality.
+Please add whatever projects you need to complete the tasks below. Each task should have a unit test showing correct functionality.
 
-You can structure your code however you like and you should spend no longer than an hour on your work.
+You can structure your code however you like and you should spend no longer than 45 minutes on your work.
 
 Use any tools at your disposal, including nuget packages and online documentation.
+
+For the purposes of the exercise assume you do not need to handle any CSV features not present in the test files
 
 ### Tasks
 

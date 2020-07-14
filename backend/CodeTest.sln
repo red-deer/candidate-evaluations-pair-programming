@@ -6,27 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C8E9846-7128-4B01-8919-0CEEDA321F77}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		Sales.csv = Sales.csv
+		SalesBackup.csv = SalesBackup.csv
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeTest2", "CodeTest2\CodeTest2.csproj", "{EB970C3A-3A9A-486F-A736-FD1A7A3D5A92}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests2", "UnitTests2\UnitTests2.csproj", "{B33A6C2B-5462-48E9-A7D7-09F6C6C4F85E}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EB970C3A-3A9A-486F-A736-FD1A7A3D5A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB970C3A-3A9A-486F-A736-FD1A7A3D5A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB970C3A-3A9A-486F-A736-FD1A7A3D5A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB970C3A-3A9A-486F-A736-FD1A7A3D5A92}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B33A6C2B-5462-48E9-A7D7-09F6C6C4F85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B33A6C2B-5462-48E9-A7D7-09F6C6C4F85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B33A6C2B-5462-48E9-A7D7-09F6C6C4F85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B33A6C2B-5462-48E9-A7D7-09F6C6C4F85E}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
