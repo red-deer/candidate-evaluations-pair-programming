@@ -1,0 +1,21 @@
+[Binding]
+
+// Boilerplate code should be here and create a _discountCalculator object
+
+    [Given("sales is equal to (.*)")] 
+    public void SalesEqualTo(float sales){
+        _discountCalculator.Sales = sales
+    }
+
+    [When("I calculate the Discount")]
+    public void CalculateDiscount(){
+        _discountCalculator.Result = classUtilityLib.calculateDiscount(_discountCalculator.Sales);
+    }
+    
+    [Then("the result should be (.*)")]
+    public void assertResult(float result){
+        Assert.AreEqual(result, _discountCalculator.Result); 
+    }
+
+
+}
