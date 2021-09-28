@@ -5,7 +5,7 @@ namespace UtilityLibTesting {
     [TestFixture]  
     public classTestCase {  
         //__________Test for Expected Results__________  
-        // Test Case#1: Sales Amount is Greater or Equal than 1000 : Verification  
+        // Test Case#1: Calling calculateDiscount with a Sales Amount is Greater or Equal than 1000 : Verification  
         [Test]  
         public void OneThousand_G_E() {  
             UtilityLib obj = new UtilityLib();  

@@ -1,0 +1,8 @@
+[Binding]
+
+// Boilerplate code should be here and create a _discountCalculator object
+// That will allow you to have the following global variables:
+//     double _discountCalculator.Sales = 0
+//     double _discountCalculator.DiscountedResult = 0
+
+    [Given("
