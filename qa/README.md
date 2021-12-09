@@ -8,7 +8,7 @@ The goal of this series of exercises is to assess if the candidate is able to:
 1) Be able to use the full force of specflow (esp: scenario outline/table)
 
 # Tasks
-## Share a new link from https://codeshare.io/ with candidate.
+## Share a new link from https://cryptpad.fr/drive/ with candidate.
 ## Copy-paste the file called Start/UtilityDiscountLib.cs on codeshare
 ## Ask the candidate to comment the MUT and tell what it does
 ### Ask candidate: Anything weird about the business logic? 
