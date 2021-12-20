@@ -27,3 +27,4 @@ The goal of this series of exercises is to assess if the candidate is able to:
 ## Specflow Step Definitions: copy-paste the file Start/Discount.Specs.Steps.Discount to codeshare
 ### Ask the candidate to write the corresponding step-definitions for their scenario(s).
 ### Added bonus if they manage to pass the context value properly between two steps-defs.
+## Cypress/Selenium test: Go to http://www.uitestingplayground.com/ and select one exercise at random (to avoid copycats) and make them write the test for it in their favourite framework.
