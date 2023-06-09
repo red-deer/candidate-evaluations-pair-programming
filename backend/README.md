@@ -1,19 +1,17 @@
 ﻿## Code test
 
-Use any tools at your disposal, including nuget packages and online documentation. You can structure your code however you like.
-
-For the purposes of the exercise assume you do not need to handle any CSV features not present in the test files.
+Use any tools at your disposal, including online documentation. You can structure your code however you like.
 
 ### Tasks
 
-Read Sales CSV file and map to a collection of objects
+1. Read Sales.csv file as raw string and map to a collection of objects using code from CsvParser.cs
 
-Find average cost of each item type sold
+2. Find average cost of each different item type sold
 
-Find top 3 months of sale revenue
+3. Find top 3 months of sale revenue
 
-Compare 2 CSV files (Sales and SalesBackup) and find duplicate records
+4. Compare 2 CSV files (Sales and SalesBackup) and find duplicate records
 
-Find average spend split by male and female
+5. Find average spend split by male and female
 
-Find most popular item sold per day of the week
+6. Find most popular item sold per day of the week
