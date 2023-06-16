@@ -18,7 +18,7 @@ public class Sale
 
 public class CsvParser
 {
-    public List<Sale> ParseSales(string content)
+    public List<Sale> ParseSales(string fileContent)
     {
         var sales = new List<Sale>();
         
@@ -33,7 +33,7 @@ public class CsvParser
             ["Price Per Item"] = (sale, value) => sale.PricePerItem = Convert.ToDecimal(value)
         };
 
-        var lines = content
+        var lines = fileContent
             .Replace("\r", "")
             .Split("\n", StringSplitOptions.RemoveEmptyEntries);
 
