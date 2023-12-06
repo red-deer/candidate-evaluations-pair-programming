@@ -4,7 +4,7 @@ Use any tools at your disposal, including online documentation. You can structur
 
 ### Tasks
 
-1. Read `Sales.csv` file contents as string and map to a collection of objects using code provided in `CsvParser.cs`
+1. Read `Sales.csv` file contents as `string` and map to a collection of objects using code provided in `CsvParser.cs`
 
 2. Find top 3 months of sale revenue
 
