@@ -1,27 +1,17 @@
-## CSS Test
+﻿## Code test
+
+Use any tools at your disposal, including online documentation. You can structure your code however you like.
 
 ### Tasks
 
-Create 3 evenly sized and spaced boxes arranged vertically within the page (top, middle and bottom)
+1. Import `Sales.csv.json` in to your project
 
-![Step 1](./assets/a.png?raw=true)
+2. Find top 3 months of sale revenue
 
-Within the bottom section, add a title which is horizontally and vertically centered
+3. Find average cost of each different item type sold
 
-![Step 2](./assets/b.png?raw=true)
+4. Compare 2 files (Sales and SalesBackup) and find duplicate records
 
-Add a small green box inside the middle section which is aligned to the bottom right corner
+5. Find average spend split by male and female
 
-![Step 3](./assets/c.png?raw=true)
-
-Within the top section, add a number of small boxes which wrap if the browser width is not wide enough
-
-![Step 4](./assets/d.png?raw=true)
-
-Add a scroll bar to the top section and increase the number of small boxes so that the content is clipped
-
-![Step 5](./assets/e.png?raw=true)
-
-Make it so that if the browser height is lower than 600px, the 3 main sections become horizontally arranged
-
-![Step 6](./assets/f.png?raw=true)
+6. Find most popular item sold per day of the week
